@@ -1,2 +1,2 @@
 # hello-world
-My hello world
+Tis a very nice day to Git!
